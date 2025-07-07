@@ -1,5 +1,5 @@
 # Assignment 1
-Assignment one consists of the documents related to the 
+Assignment one consists of the documents related to the Items overview page and Single Item page
 1. Test plan
 2. Test cases
 3. Bug Report
